@@ -1,2 +1,3 @@
-# shape-up-spanish
-Translation of Ryan Singer's book Shape Up
+# Shape Up Spanish
+
+Spanish translation of Ryan Singer's book Shape Up
